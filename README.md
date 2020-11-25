@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-## Deplyoed App ----->> https://clone-8cc12.web.app/
+## Deployed App ----->> https://clone-8cc12.web.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
